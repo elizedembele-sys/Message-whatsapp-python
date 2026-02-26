@@ -10,8 +10,9 @@
 ## IMPORTANT
 
 **Navigateur web utile**
-*l'tulisateur doit être connecté sur son whatsapp à travers le nafigateur web.*
+
+*l'ulisateur doit être connecté sur son WhatsApp à travers le navigateur web.*
 
 ### PERSPECTIVES
 - Ce projet sera amélioré au fur et à mesure.
- - Des propositions sont attendues
+- Des propositions sont attendues
