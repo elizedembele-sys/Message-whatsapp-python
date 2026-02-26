@@ -1,4 +1,4 @@
-#REAMDME DU NOTEBOOK
+# REAMDME DU NOTEBOOK
 
 ## FONCTIONNALITES
 - [x] chager les package nécessaire comme pywhatkit
@@ -10,4 +10,8 @@
 ## IMPORTANT
 
 **Navigateur web utile**
-```l'tulisateur doit être connecté sur son whatsapp à travers le nafigateur web.
+*l'tulisateur doit être connecté sur son whatsapp à travers le nafigateur web.*
+
+### PERSPECTIVES
+- Ce projet sera amélioré au fur et à mesure.
+ - Des propositions sont attendues
