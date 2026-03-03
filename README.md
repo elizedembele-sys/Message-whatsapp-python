@@ -16,3 +16,4 @@
 ### PERSPECTIVES
 - Ce projet sera amélioré au fur et à mesure.
 - Des propositions sont attendues
+- Vous pouvez faire des propositions aussi
